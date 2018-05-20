@@ -1,4 +1,4 @@
-# Word2vec model is based on "https://github.com/alexander-rakhlin/CNN-for-Sentence-Classification-in-Keras.git"
+### Word2vec model is based on "https://github.com/alexander-rakhlin/CNN-for-Sentence-Classification-in-Keras.git"
 All pre-trained word vectors are pre-trained by the above codes. <br>
 
 
